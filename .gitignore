@@ -1,0 +1,4 @@
+conf/target/screenshots/my-report.html
+node_modules/
+target/
+allure-results/
